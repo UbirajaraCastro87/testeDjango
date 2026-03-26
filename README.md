@@ -48,7 +48,6 @@ Este projeto tem como objetivo servir de laboratório para aprender Django, expl
 - Manipulação de modelos e consultas
 - Integração com Git/GitHub
 
-- 
 
 
 
